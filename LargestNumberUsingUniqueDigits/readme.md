@@ -1,5 +1,7 @@
 <html>
   <body>
+    <H1>Try it Yourself</h1>
+    <iframe height="400px" width="100%" src="https://replit.com/@PriyanshuLanjew/adv1?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
     <h1>Largest Number Using Unique Digits</h1><hr>
     <p>Project to read a string of Numbers and scan unique digits in string and then using these unique digits to generate largest number and return that number.(Without using array.</p>
     <hr>
