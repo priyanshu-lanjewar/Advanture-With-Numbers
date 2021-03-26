@@ -2,8 +2,17 @@
   <body>
     <H1>Try it Yourself</h1>
    
-   <iframe src="https://trinket.io/embed/java/35e0a6fddf?outputOnly=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-   
+ <iframe 
+  onLoad="javascript:console.log('Dear reader of my blog,\nIt has recently come to my attention that Substack has started posting advertisements on my blog\'s dev console\nwithout asking for my permission. Upon noticing, I\'ve contacted Substack and asked them to remove the\n\'SUBSTACK IS HIRING\' ad (Screenshot: https://imgur.com/a/ZEaGFeI). Sadly, the company\'s representative recommended I remove the embed altogether.\nHowever, since I was too lazy to find a new email syndication service quickly, I\'ve now left the Substack newsletter iframe as is and added this message.\n\nBest,\nTim')"
+  src="https://timdaubenschuetz.substack.com/embed"
+  width="480" 
+  height="320"
+  style="border:1px solid #EEE; background:white;" 
+  frameborder="0" 
+  scrolling="no">
+</iframe>
+
+
    <h1>Largest Number Using Unique Digits</h1><hr>
     <p>Project to read a string of Numbers and scan unique digits in string and then using these unique digits to generate largest number and return that number.(Without using array.</p>
     <hr>
